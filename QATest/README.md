@@ -133,7 +133,7 @@ sesion.calificarSesion(88, "Excelente razonamiento abstracto");
 
 ## 👥 Autores
 
-- **Julio Martínez** - [jmaritnezm45@miumg.edu.gt](mailto:jmaritnezm45@miumg.edu.gt)
+- **Julio Martínez & Alvaro Pur** - contacto: [jmaritnezm45@miumg.edu.gt](mailto:jmaritnezm45@miumg.edu.gt)
   - Implementación del Sistema de Gestión de Exámenes
   - Arquitectura de entidades y servicios
   - Sistema de reportes y estadísticas
